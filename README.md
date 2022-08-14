@@ -1,3 +1,4 @@
+Forked from: https://github.com/robertying/AndroidCurlExample
 # Android Curl Example
 
 Minimal Android example for using `libopenssl` and `libcurl` with `NDK` and `JNI`.
